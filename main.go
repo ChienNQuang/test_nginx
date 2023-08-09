@@ -13,4 +13,6 @@ func main() {
 			"message": "Hello 世界",
 		})
 	})
+
+	r.Run()
 }
